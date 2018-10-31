@@ -1,4 +1,3 @@
-
 # importing the required libraries
 import torch
 from torch.autograd import Variable
